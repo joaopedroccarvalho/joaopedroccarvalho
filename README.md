@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px height: 10px" width=100% src="https://img.freepik.com/vetores-premium/hello-world-e-uma-palavra-simples-para-a-primeira-programacao-do-programador_48644-298.jpg" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://media.licdn.com/dms/image/D4D16AQFG5XN5JqOyjA/profile-displaybackgroundimage-shrink_350_1400/0/1692284177827?e=1709769600&v=beta&t=4j3-SKK6mk-0N2nNk2VGkdNzYF1bOtwe7kyykJf1BIA" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
