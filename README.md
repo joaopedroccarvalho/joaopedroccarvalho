@@ -5,7 +5,7 @@
 <p align="center"> Illuminating intricate problems with the brilliance of technology is my passion!💡 <br><br> I'm a front-end developer passionate about technology, committed to learning and growing every day. My enthusiasm for innovation drives my dedication to creating amazing user experiences. Let's explore the fascinating world of development together. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="[https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly](https://github-readme-streak-stats.herokuapp.com?user=joaopedroccarvalho&theme=bear)" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=joaopedroccarvalho&theme=bear" />
  </div>
  
  &nbsp;
