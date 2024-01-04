@@ -1,8 +1,8 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://miro.medium.com/v2/resize:fit:1024/1*OohqW5DGh9CQS4hLY5FXzA.png" />
+<img align="center" style="margin-bottom:100px" width=100% height=10px src="https://miro.medium.com/v2/resize:fit:1024/1*OohqW5DGh9CQS4hLY5FXzA.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center"> Illuminating intricate problems with the brilliance of technology is my passion!💡 <br><br> I'm a front-end developer passionate about technology, committed to learning and growing every day. My enthusiasm for innovation drives my dedication to creating amazing user experiences. Let's explore the fascinating world of development together. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=joaopedroccarvalho&theme=radical&mode=weekly" />
